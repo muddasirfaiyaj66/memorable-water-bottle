@@ -1,0 +1,14 @@
+.bottle-container{
+    border: 2px solid tomato;
+    border-radius: 15px;
+    padding: 15px;
+    
+}
+.bottle-container img{
+    width: 300px;
+}
+@media  screen and (max-width:576px) {
+    .bottle-container img{
+        width: 150px;
+    } 
+}
